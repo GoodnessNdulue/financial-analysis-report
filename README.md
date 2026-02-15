@@ -130,8 +130,8 @@ Built an interactive Power BI dashboard analyzing **$118.73M in sales**, **$16.8
 
 ## 📂 Project Files
 
-- **Dashboard File:** [financial_performance_dashboard.pbix](dashboard/financial_performance_dashboard.pbix)
-- **Dashboard Screenshot:** [View Dashboard](dashboard/financial_dashboard_screenshot.png)
+- **Dashboard File:** [financial_performance_dashboard.pbix](https://github.com/GoodnessNdulue/financial-analysis-report/blob/main/Financial%20Analysis%20Report.png)
+- **Dashboard Screenshot:** [View Dashboard](https://github.com/GoodnessNdulue/financial-analysis-report/blob/main/Financial%20Analysis%20Report.png)
 - **Data Files:** Available upon request (anonymized financial data)
 
 ---
